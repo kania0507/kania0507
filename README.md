@@ -1,7 +1,9 @@
 ### Hi there 👋
-🔭 I’m currently working on ... some Wordpress plugin ... 
 
 <!--
+
+🔭 I’m currently working on ... some Wordpress plugin ... 
+
 **kania0507/kania0507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
