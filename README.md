@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+"<i>Follow your curiosity</i>"
+
 <!--
 
 🔭 I’m currently working on ... some Wordpress plugin ... 
