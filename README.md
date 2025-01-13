@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡<a href="https://kania0507.github.io/projects">My projects</a>⚡
+⚡<a href="https://projects-nu-one.vercel.app/">My projects</a>⚡
