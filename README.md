@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 ⚡Check out <a href="https://projects-nu-one.vercel.app/">my projects</a>⚡
 
 🌱 I’m currently learning <a href="https://github.com/kania0507/docs/blob/master/SUMMARY.md">cybersecurity</a>
+✨ <a href="https://tryhackme.com/p/kania0507">tryhackme</a>
 </div>
