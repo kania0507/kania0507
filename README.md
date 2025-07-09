@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div>
-<p>⚡Check out <a href="https://projects-nu-one.vercel.app/">my projects</a>⚡</p>
+<p>⚡Check out <a href="https://projects-nu-one.vercel.app/">my webdev's projects</a>⚡</p>
 
 🌱 I’m currently learning <a href="https://github.com/kania0507/docs/blob/master/SUMMARY.md">cybersecurity</a>, participant of Cyber Women Leaders program<br>
 ✨ <a href="https://tryhackme.com/p/kania0507">tryhackme</a>
