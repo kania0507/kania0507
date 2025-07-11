@@ -31,5 +31,8 @@ Here are some ideas to get you started:
 🌱 I’m currently learning <a href="https://github.com/kania0507/docs/blob/master/SUMMARY.md">cybersecurity</a>, I'm a participant in the Cyber Women Leaders program<br>
 ✨ <a href="https://tryhackme.com/p/kania0507">tryhackme</a>
 ✨ <a href="https://app.letsdefend.io/user/kania0507">letsdefend</a>
+✨ <a href="https://www.credly.com/badges/f744cdf1-7ca3-4678-8c64-baa429713e22/public_url">ISC2</a>
+
 
 </div>
+
