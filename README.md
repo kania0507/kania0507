@@ -32,6 +32,6 @@ Here are some ideas to get you started:
 
 
 </div>
-<div>
+<!--<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kania0507&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=9&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
+</div>-->
